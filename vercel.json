@@ -1,0 +1,7 @@
+{
+  "buildCommand": "pnpm run vercel-build",
+  "installCommand": "pnpm install",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "regions": ["hkg1"]
+}
